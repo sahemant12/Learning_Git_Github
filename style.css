@@ -18,7 +18,11 @@
 .upper h1{
     text-align: center;
 }
-/* .lower{
+.lower{
     text-align: center;
     margin-top: 20px;
-} */
+}
+.letAddMoreDiv{
+    gap:20px;
+    text-align: center;
+}
