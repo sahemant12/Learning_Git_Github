@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#click-me{
+    padding: 10px;
+    width: 10vw;
+    margin: auto;
+}
+.upper{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 50px;
+}
+.upper h1{
+    text-align: center;
+}
+/* .lower{
+    text-align: center;
+    margin-top: 20px;
+} */
